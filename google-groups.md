@@ -5,6 +5,11 @@
 
 ## Changelog
 
+### Version 2017-12-27
+
+ - Fix links (invisible before)
+ - Fix welcome white box
+
 ### Version 2017-12-21
 
  - Use dark background from [StackExchange](https://github.com/StylishThemes/StackOverflow-Dark).
