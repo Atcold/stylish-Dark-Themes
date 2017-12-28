@@ -17,6 +17,7 @@ They may require crafting new icons, so they might now be a straightforward modd
 ### Version 2017-12-28
 
  - This message has been deleted.
+ - Fix default colour for all headings.
  
 ### Version 2017-12-27
 
