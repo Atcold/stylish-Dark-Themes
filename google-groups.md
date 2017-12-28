@@ -5,6 +5,10 @@
 
 ## Changelog
 
+### Version 2017-12-28
+
+ - This message has been deleted
+ 
 ### Version 2017-12-27
 
  - Fix links (invisible before)
