@@ -18,3 +18,4 @@ Starts with OK theme https://userstyles.org/styles/98208/
  - Use nicer background pattern.
  - Remove gradients.
  - Brighten top bar and dropdown colour.
+ - Fix help bottom window.
