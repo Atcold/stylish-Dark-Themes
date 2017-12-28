@@ -1,5 +1,8 @@
 @-moz-document url-prefix("http://localhost:8888/"), url-prefix("http://127.0.0.1:8888/"), url-prefix("http://localhost:8889/"), url-prefix("http://localhost:8890/") {
-@namespace url(http://www.w3.org/1999/xhtml);
+
+/*******************************************************************************
+                <from=https://userstyles.org/styles/98208/>
+*******************************************************************************/
 div.cell.selected {
     background: linear-gradient(to right, #337ab7 -40px, #337ab7 5px, transparent 5px, transparent 100%);
     }
@@ -508,6 +511,9 @@ div#pager pre {
     background-color: #333;
     color: #ddd;
     }
+/*******************************************************************************
+                                     </from>
+*******************************************************************************/
 
 /* Code block in MD */
 .rendered_html pre code {background-color: transparent;}
