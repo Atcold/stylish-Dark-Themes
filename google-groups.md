@@ -3,6 +3,15 @@
 ## Preview
 ![Preview](https://userstyles.org/style_screenshots/153180_after.jpeg)
 
+## Todo
+
+This is a list of features I may consider to work on, if they start bugging me too much.
+They may require crafting new icons, so they might now be a straightforward modding.
+
+ - Dark-ify buttons (take inspiration from Dark Gmail #1).
+ - Dark-ify the editing toolbar.
+ - Fix invisible unclicked star (favourite button). When clicked, it turns yellow.
+
 ## Changelog
 
 ### Version 2017-12-28
