@@ -68,7 +68,7 @@ input[type="text"], input[type="password"] {
 
 /* Left bar headings */
 .F0XO1GC-d-B a, .F0XO1GC-d-C a, .F0XO1GC-d-B a:visited {color: #555 !important;}
-h3 {color: #888 !important;}
+h1, h2, h3, h4, h5 {color: #888 !important;}
 .F0XO1GC-d-n {background-color: #333 !important;}
 
 /* Main view */
