@@ -14,7 +14,7 @@ They may require crafting new icons, so they might now be a straightforward modd
 
 ## Changelog
 
-### Version 2018-1-4
+### Version 2018-01-04
 
  - .gb_Ef -> .gb_Eg.
 
