@@ -9,6 +9,10 @@ Empty list, for the moment.
 
 ## Changelog
 
+### Version 2018-07-30
+
+ - Add MyBinder domain
+
 ### Version 2017-12-28
 
 Starts with OK theme https://userstyles.org/styles/98208/
