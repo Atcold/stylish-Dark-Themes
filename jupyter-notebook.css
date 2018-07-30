@@ -1,4 +1,4 @@
-@-moz-document url-prefix("http://localhost:8888/"), url-prefix("http://127.0.0.1:8888/"), url-prefix("http://localhost:8889/"), url-prefix("http://localhost:8890/") {
+@-moz-document url-prefix("http://localhost:8888/"), url-prefix("http://127.0.0.1:8888/"), url-prefix("http://localhost:8889/"), url-prefix("http://localhost:8890/"), url-prefix("https://hub.mybinder.org/") {
 
 /*******************************************************************************
                 <from=https://userstyles.org/styles/98208/>
