@@ -9,6 +9,10 @@ Empty list, for the moment.
 
 ## Changelog
 
+### Version 2018-07-31
+
+ - Add pandas table visualisation support
+
 ### Version 2018-07-30
 
  - Add MyBinder domain

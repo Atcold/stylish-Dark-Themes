@@ -46,7 +46,7 @@ div#pager .ui-resizable-handle {
     div#pager .ui-resizable-handle::after {
     border-top: 1px solid #999;
     }
-    
+
 #texteditor-backdrop {
     background-color: #101010;
 }
@@ -71,7 +71,7 @@ body > #header .header-bar {
     .modal-content {
     background-color: #050505;
 }
-    
+
     span.save_widget span.filename:hover {
     background-color: #333;
 }
@@ -79,45 +79,45 @@ body > #header .header-bar {
     .notebook_app #header {
     box-shadow: 0px 0px 1px 1px rgba(87, 87, 87, 0.2);
 }
-    
+
     .notebook_app {
     background-color: #050505;
 }
-    
+
     .navbar-default {
     background-color: rgb(26,26,26) !important;
     background-image: linear-gradient(to bottom, #242424, #101010) !important;
     border-color: #E7E7E7;
 }
-    
+
     #header .header-bar {
     width: 0px;
     background: none repeat scroll 0% 0% #666;
 }
-    
+
     .caret {
     border-top: 4px solid !important;
     border-right: 4px solid transparent !important;
     border-left: 4px solid transparent !important;
 }
-    
+
     .list_item:hover {
     background-color: #050505;
 }
-    
+
     .list_header {
     font-weight: bold;
     background-color: #050505;
 }
-    
+
     .list_container > div {
     border-bottom: 1px solid #666;
 }
-    
+
     #header {
     background-color: #050505;
 }
-    
+
     body {
         background-color: rgb(16,16,16);
         color: #BBB !important;
@@ -182,7 +182,7 @@ body > #header .header-bar {
     .completions {
         box-shadow: none !important;
 }
-    
+
 .ipython_tooltip {
     background-color: #101010 !important;
     box-shadow: none !important;
@@ -215,7 +215,7 @@ div#pager pre {
     .modal {
     background-color: #101010 !important;
 }
- 
+
     .modal-footer {
     background-color: #101010 !important;
     box-shadow: 0px 1px 0px #101010 inset !important;
@@ -223,56 +223,56 @@ div#pager pre {
     textarea, input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="email"], input[type="url"], input[type="search"], input[type="tel"], input[type="color"], .uneditable-input {
     background-color: #101010 !important;
 }
-    
+
     .ui-icon {
     background-color: #BBB !important;
 }
-    
+
 /* 20140214 */
-    
+
     .MathJax span {
     border-color: #BBB !important;
 }
-    
+
 
     .navbar-text {
     color: #BBB !important;
 }
-    
+
     div.output_stderr {
     background: none repeat scroll 0% 0% #643939 !important;
 }
 
 /* 20140406 */
-    
+
 .rendered_html {
     color: #BBB !important;
-}       
+}
 
 /* 20141204 */
 
 .ui-state-hover, .ui-widget-content .ui-state-hover, .ui-widget-header .ui-state-hover, .ui-state-focus, .ui-widget-content .ui-state-focus, .ui-widget-header .ui-state-focus {
     border: 1px solid #333 !important;
     background: none #060606 !important;
-}    
+}
 
 .ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default {
     border: 1px solid #333 !important;
     background: none;
-}        
-  
+}
+
     .dropdown-menu .divider {
     background-color: #666 !important;
 }
-    
+
     .dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
     background-color: #050505;
 }
 
     .panel {
     background-color: #111;
-}    
-    
+}
+
     #running .panel-group .panel .panel-heading {
     background-color: #060606;
 }
@@ -281,63 +281,63 @@ div#pager pre {
 
 
 
-/* color theme */    
+/* color theme */
 
 
 /* input area */
-    
+
     /* background color */
-    
+
     div.input_area {
     background: none repeat scroll 0% 0% #333333 !important;
 }
-    
+
     /* basic font color */
-    
+
     .CodeMirror {
     color: #DDDDDD !important;
 }
-    
+
     /* selected text background color */
-    
+
     .CodeMirror-selected {
     background: none repeat scroll 0% 0% #101010 !important;
 }
-    
+
     /* cursor color */
-    
+
     .CodeMirror div.CodeMirror-cursor {
     border-left: 1px solid #AAAAAA !important;
 }
-    
+
     /* keyword color */
-    
+
     .cm-s-ipython span.cm-keyword {
     color: #F0E68C !important;
 }
-    
+
     /* variable color */
-    
+
     .cm-s-ipython span.cm-variable {
     color: #DDDDDD !important;
 }
-    
+
     .cm-s-ipython span.cm-variable-2 {
     color: #DDDDDD;
 }
 
     /* string color */
-    
+
     .cm-s-ipython span.cm-string {
     color: #FFA0A0 !important;
 }
-    
+
     .cm-s-ipython span.cm-link {
     color: #FFA0A0;
 }
 
     /* comment color */
-    
+
     .cm-s-ipython span.cm-comment {
     color: #87CEEB !important;
 }
@@ -347,52 +347,52 @@ div#pager pre {
 }
 
     /* built in function color */
-    
+
     .cm-s-ipython span.cm-builtin {
     color: #98FB98 !important;
 }
 
     /* local function color */
-    
+
     .cm-s-ipython span.cm-def {
     color: #98FB98;
 }
-    
+
     /* number color */
-    
+
     .cm-s-ipython span.cm-number {
     color: #FFA0A0 !important;
 }
-    
+
     /* operator color */
-    
+
     .cm-s-ipython span.cm-operator {
     color: #FFA858 !important;
-}   
-    
+}
+
     /* matching bracket color */
-    
+
     div.CodeMirror span.CodeMirror-matchingbracket {
     color: #DDDDDD !important;
     background-color: #008B8B !important;
 }
-    
+
     /* error syntax color */
-    
+
     .cm-s-ipython span.cm-error {
     color: #FF5555 !important;
 }
-    
+
     .CodeMirror-gutters {
     border-right: 1px solid #DDD;
     background-color: #242424 !important;
     white-space: nowrap;
 }
-    
+
 /* output area */
-    
+
     /* output background color */
-    
+
     #notebook-container {
     background-color: #101010;
     box-shadow: 0px 0px 1px 1px rgba(87, 87, 87, 0.2);
@@ -403,7 +403,7 @@ div#pager pre {
     div.cell.selected {
     border: 1px solid #234 !important;
     margin: -1px !important;
-}    
+}
 
     div.cell {
     border: 0px solid #234 !important;
@@ -411,22 +411,22 @@ div#pager pre {
     .ansicyan {
     color: #FFA0A0;
 }
-    
+
     .ansiyellow {
     color: #FFA0A0 !important;
 }
-    
+
     .ansigreen {
     color: #F0E68C !important;
 }
     .ansiblue {
     color: #87ceeb !important;
 }
-    
+
     .ansired {
     color: #FF4E4E !important;
 }
-    
+
 
 
     /* Markdown Cell */
@@ -494,7 +494,7 @@ div#pager pre {
 }
     .cm-s-default .cm-operator {
     color: #FFA858 !important;
-}   
+}
     .cm-s-default .cm-error {
     color: #FF5555 !important;
 }
@@ -551,4 +551,12 @@ body > #header, body > #header .header-bar {background-color: #181818;}
 
 /* Help */
 div#pager pre {background-color: #181818 !important;}
+
+/* Pandas */
+.rendered_html table {
+    color: #ddd !important;
+}
+.rendered_html tbody tr:nth-child(odd) {
+    background: #333 !important;
+}
 }
